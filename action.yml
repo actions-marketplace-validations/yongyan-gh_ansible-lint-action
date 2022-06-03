@@ -1,6 +1,6 @@
-name: Ansible Lint
-description: Run Ansible Lint
-author: Ansible by Red Hat <info@ansible.com>
+name: Ansible Lint Sarif
+description: Run Ansible Lint With Sarif support
+author: yongyan-gh@outlook.com
 branding:
   icon: shield
   color: red
